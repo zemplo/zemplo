@@ -3,7 +3,7 @@
 	
 		<div id="footer-bottom">
 			<div class="container">
-				<p id="copyright"><?php printf( __( 'Designed by %1$s | Powered by %2$s', 'Nimble' ), '<a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a>', '<a href="http://www.wordpress.org">WordPress</a>' ); ?></p>
+				<p id="copyright"><?php printf( __( '© 2012 Zemplo | Todos os direitos reservados' ), '<!--a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a>', '<a href="http://www.wordpress.org">WordPress</a-->' ); ?></p>
 			</div> <!-- end .container -->
 		</div> <!-- end #footer-bottom -->
 	</footer> <!-- end #main-footer -->
