@@ -1,0 +1,13 @@
+/*
+Theme Name:     Nimble Filho
+Description:    Tema filho do tema Nimble - Elegant Themes 
+Author:         Zemplo - Stephany
+Template:       Nimble
+Version:        0.1.0
+*/
+
+@import url("../Nimble/style.css");
+
+.blog-post h3 {
+	text-align: center;
+}
